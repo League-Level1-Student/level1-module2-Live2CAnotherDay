@@ -38,8 +38,9 @@ public class Smurf {
 	public String isGirlOrBoy() {
 		// 4. Fill in this method
 		return "Papa and Handy are Male, and Smurfette is a Female";
+		
 	}
 
 }
-
+/// Nothing works in here
 
