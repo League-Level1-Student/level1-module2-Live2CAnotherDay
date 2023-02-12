@@ -87,10 +87,11 @@ class Ruler extends Supply {
 class Textbook extends Supply {
 	Textbook() {
 		this.name = "textbook";
-		System.out.println("You got your boring textbook");
+		System.out.println("You got your boring textbook!!!");
 	}
 
 	public void read() {
 		System.out.println("The history of Iceland is long and interesting");
 	}
 }
+/// Nothing to touch here
